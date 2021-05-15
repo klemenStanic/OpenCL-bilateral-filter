@@ -1,0 +1,217 @@
+Start
+Running Serial with sigma_s=4 and sigma_v=0.05
+width: 512, height: 512, cpp: 3, sigma_s: 4, sigma_v: 12.750000
+Time: 0.85514 s
+Image writing status: 1
+-------------------------------------------------------------------
+Running Serial Naive with sigma_s=4 and sigma_v=0.05
+width: 512, height: 512, cpp: 3, sigma_s: 4, sigma_v: 12.750000
+Time: 19.25884 s
+Image writing status: 1
+-------------------------------------------------------------------
+Running Parallel with sigma_s=4 and sigma_v=0.05
+Image writing status: 1
+Time: 0.07422 s
+-------------------------------------------------------------------
+Running Parallel Naive with sigma_s=4 and sigma_v=0.05
+Image writing status: 1
+Time: 0.12338 s
+*******************************************************************
+Running Serial with sigma_s=8 and sigma_v=0.05
+width: 512, height: 512, cpp: 3, sigma_s: 8, sigma_v: 12.750000
+Time: 3.25598 s
+Image writing status: 1
+-------------------------------------------------------------------
+Running Serial Naive with sigma_s=8 and sigma_v=0.05
+width: 512, height: 512, cpp: 3, sigma_s: 8, sigma_v: 12.750000
+Time: 72.25504 s
+Image writing status: 1
+-------------------------------------------------------------------
+Running Parallel with sigma_s=8 and sigma_v=0.05
+Image writing status: 1
+Time: 0.27598 s
+-------------------------------------------------------------------
+Running Parallel Naive with sigma_s=8 and sigma_v=0.05
+Image writing status: 1
+Time: 0.46052 s
+*******************************************************************
+Running Serial with sigma_s=16 and sigma_v=0.05
+width: 512, height: 512, cpp: 3, sigma_s: 16, sigma_v: 12.750000
+Time: 13.11582 s
+Image writing status: 1
+-------------------------------------------------------------------
+Running Serial Naive with sigma_s=16 and sigma_v=0.05
+width: 512, height: 512, cpp: 3, sigma_s: 16, sigma_v: 12.750000
+Time: 276.01741 s
+Image writing status: 1
+-------------------------------------------------------------------
+Running Parallel with sigma_s=16 and sigma_v=0.05
+Image writing status: 1
+Time: 0.98500 s
+-------------------------------------------------------------------
+Running Parallel Naive with sigma_s=16 and sigma_v=0.05
+Image writing status: 1
+Time: 1.75122 s
+*******************************************************************
+Running Serial with sigma_s=4 and sigma_v=0.2
+width: 512, height: 512, cpp: 3, sigma_s: 4, sigma_v: 51.000000
+Time: 0.80891 s
+Image writing status: 1
+-------------------------------------------------------------------
+Running Serial Naive with sigma_s=4 and sigma_v=0.2
+width: 512, height: 512, cpp: 3, sigma_s: 4, sigma_v: 51.000000
+Time: 15.21087 s
+Image writing status: 1
+-------------------------------------------------------------------
+Running Parallel with sigma_s=4 and sigma_v=0.2
+Image writing status: 1
+Time: 0.07440 s
+-------------------------------------------------------------------
+Running Parallel Naive with sigma_s=4 and sigma_v=0.2
+Image writing status: 1
+Time: 0.12357 s
+*******************************************************************
+Running Serial with sigma_s=8 and sigma_v=0.2
+width: 512, height: 512, cpp: 3, sigma_s: 8, sigma_v: 51.000000
+Time: 2.92055 s
+Image writing status: 1
+-------------------------------------------------------------------
+Running Serial Naive with sigma_s=8 and sigma_v=0.2
+width: 512, height: 512, cpp: 3, sigma_s: 8, sigma_v: 51.000000
+Time: 66.94103 s
+Image writing status: 1
+-------------------------------------------------------------------
+Running Parallel with sigma_s=8 and sigma_v=0.2
+Image writing status: 1
+Time: 0.27607 s
+-------------------------------------------------------------------
+Running Parallel Naive with sigma_s=8 and sigma_v=0.2
+Image writing status: 1
+Time: 0.46074 s
+*******************************************************************
+Running Serial with sigma_s=16 and sigma_v=0.2
+width: 512, height: 512, cpp: 3, sigma_s: 16, sigma_v: 51.000000
+Time: 10.87755 s
+Image writing status: 1
+-------------------------------------------------------------------
+Running Serial Naive with sigma_s=16 and sigma_v=0.2
+width: 512, height: 512, cpp: 3, sigma_s: 16, sigma_v: 51.000000
+Time: 255.22470 s
+Image writing status: 1
+-------------------------------------------------------------------
+Running Parallel with sigma_s=16 and sigma_v=0.2
+Image writing status: 1
+Time: 0.98483 s
+-------------------------------------------------------------------
+Running Parallel Naive with sigma_s=16 and sigma_v=0.2
+Image writing status: 1
+Time: 1.75066 s
+*******************************************************************
+Running Serial with sigma_s=4 and sigma_v=0.8
+width: 512, height: 512, cpp: 3, sigma_s: 4, sigma_v: 204.000000
+Time: 0.80182 s
+Image writing status: 1
+-------------------------------------------------------------------
+Running Serial Naive with sigma_s=4 and sigma_v=0.8
+width: 512, height: 512, cpp: 3, sigma_s: 4, sigma_v: 204.000000
+Time: 16.49050 s
+Image writing status: 1
+-------------------------------------------------------------------
+Running Parallel with sigma_s=4 and sigma_v=0.8
+Image writing status: 1
+Time: 0.07420 s
+-------------------------------------------------------------------
+Running Parallel Naive with sigma_s=4 and sigma_v=0.8
+Image writing status: 1
+Time: 0.12341 s
+*******************************************************************
+Running Serial with sigma_s=8 and sigma_v=0.8
+width: 512, height: 512, cpp: 3, sigma_s: 8, sigma_v: 204.000000
+Time: 2.89884 s
+Image writing status: 1
+-------------------------------------------------------------------
+Running Serial Naive with sigma_s=8 and sigma_v=0.8
+width: 512, height: 512, cpp: 3, sigma_s: 8, sigma_v: 204.000000
+Time: 52.13937 s
+Image writing status: 1
+-------------------------------------------------------------------
+Running Parallel with sigma_s=8 and sigma_v=0.8
+Image writing status: 1
+Time: 0.27602 s
+-------------------------------------------------------------------
+Running Parallel Naive with sigma_s=8 and sigma_v=0.8
+Image writing status: 1
+Time: 0.46046 s
+*******************************************************************
+Running Serial with sigma_s=16 and sigma_v=0.8
+width: 512, height: 512, cpp: 3, sigma_s: 16, sigma_v: 204.000000
+Time: 10.88048 s
+Image writing status: 1
+-------------------------------------------------------------------
+Running Serial Naive with sigma_s=16 and sigma_v=0.8
+width: 512, height: 512, cpp: 3, sigma_s: 16, sigma_v: 204.000000
+Time: 233.11871 s
+Image writing status: 1
+-------------------------------------------------------------------
+Running Parallel with sigma_s=16 and sigma_v=0.8
+Image writing status: 1
+Time: 0.98488 s
+-------------------------------------------------------------------
+Running Parallel Naive with sigma_s=16 and sigma_v=0.8
+Image writing status: 1
+Time: 1.75093 s
+*******************************************************************
+Running Serial with sigma_s=4 and sigma_v=1.0
+width: 512, height: 512, cpp: 3, sigma_s: 4, sigma_v: 255.000000
+Time: 0.80199 s
+Image writing status: 1
+-------------------------------------------------------------------
+Running Serial Naive with sigma_s=4 and sigma_v=1.0
+width: 512, height: 512, cpp: 3, sigma_s: 4, sigma_v: 255.000000
+Time: 19.90163 s
+Image writing status: 1
+-------------------------------------------------------------------
+Running Parallel with sigma_s=4 and sigma_v=1.0
+Image writing status: 1
+Time: 0.07420 s
+-------------------------------------------------------------------
+Running Parallel Naive with sigma_s=4 and sigma_v=1.0
+Image writing status: 1
+Time: 0.12327 s
+*******************************************************************
+Running Serial with sigma_s=8 and sigma_v=1.0
+width: 512, height: 512, cpp: 3, sigma_s: 8, sigma_v: 255.000000
+Time: 2.90287 s
+Image writing status: 1
+-------------------------------------------------------------------
+Running Serial Naive with sigma_s=8 and sigma_v=1.0
+width: 512, height: 512, cpp: 3, sigma_s: 8, sigma_v: 255.000000
+Time: 51.66329 s
+Image writing status: 1
+-------------------------------------------------------------------
+Running Parallel with sigma_s=8 and sigma_v=1.0
+Image writing status: 1
+Time: 0.27600 s
+-------------------------------------------------------------------
+Running Parallel Naive with sigma_s=8 and sigma_v=1.0
+Image writing status: 1
+Time: 0.46032 s
+*******************************************************************
+Running Serial with sigma_s=16 and sigma_v=1.0
+width: 512, height: 512, cpp: 3, sigma_s: 16, sigma_v: 255.000000
+Time: 10.89152 s
+Image writing status: 1
+-------------------------------------------------------------------
+Running Serial Naive with sigma_s=16 and sigma_v=1.0
+width: 512, height: 512, cpp: 3, sigma_s: 16, sigma_v: 255.000000
+Time: 230.59420 s
+Image writing status: 1
+-------------------------------------------------------------------
+Running Parallel with sigma_s=16 and sigma_v=1.0
+Image writing status: 1
+Time: 0.98480 s
+-------------------------------------------------------------------
+Running Parallel Naive with sigma_s=16 and sigma_v=1.0
+Image writing status: 1
+Time: 1.75098 s
+*******************************************************************
