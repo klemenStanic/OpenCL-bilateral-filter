@@ -44,3 +44,10 @@ Running on `lena4K.jpg`, a 3840×2160 jpg file:
 
 *s* stands for serial algorithm, running on a single CPU, *s-n* is a naive version of this same algorithm.
 Similarily, *p* stands for the parallel algorithm (running on 1 GPU with OpenCL), *p-n* is a naive version of the parallel algorithm.
+
+## Speedups
+| sigma_s | s-n / p-n | s / p-n | s / p |
+|---------|-----------|---------|-------|
+| 4       | 139.88    | 6.93    | 11.52 |
+| 8       | 117.81    | 7.07    | 11.79 |
+| 16      | 130.77    | 6.34    | 11.28 |
